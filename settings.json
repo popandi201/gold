@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "GoldGeorgiana",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "GoldGeorgiana",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "neckhurtsez09.aternos.me",
+    "port":  23452,
     "version": "1.21.1"
   },
   "position": {
